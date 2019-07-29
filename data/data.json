@@ -1,0 +1,38 @@
+{
+    "dataName": "JSON Example",
+    "dataDate": "July 17, 2019",
+    "dataDescription": "This data will all be rendered with JSON",
+    "users": [
+        {
+            "name": "Charles",
+            "age": 30,
+            "address": {
+                "street": "1909 North Lathrop",
+                "city": "Swanton",
+                "state": "OH"
+            },
+            "jobTitle": "Full Stack Web Developer",
+            "responsibilities": [
+                "Development",
+                "Bug Fixes",
+                "Analytics"
+            ]
+        },
+        {
+            "name": "Lauri",
+            "age": 40,
+            "address": {
+                "street": "5678 Rainbow Road",
+                "city": "Perrysburg",
+                "state": "OH"
+            },
+            "jobTitle": "Network Admin",
+            "responsibilities": [
+                "Stuff",
+                "More Stuff",
+                "Other Stuff"
+            ]
+        }
+    ]
+    
+}
